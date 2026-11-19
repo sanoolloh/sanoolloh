@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Sanoulloh%20Abdumalikov&fontSize=40&animation=fadeIn" width="100%"/>
+<img src="avatar.png" width="150"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Cybersecurity+student+at+Temple+University+Japan;Learning+Java,+C+and+Python;Interested+in+security,+networks+and+code)](https://git.io/typing-svg)
 </div>
