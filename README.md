@@ -7,7 +7,7 @@
 ## About me
 - 🎓 B.S. Cybersecurity student at Temple University, Japan Campus (Tokyo)
 - 💻 Currently learning Java, C and Python
-- 🔐 Interested in cybersecurity, networks and how systems break, so I can learn to defend them
+- 🔐 Interested in cybersecurity and networks 
 - 📍 Based in Tokyo, Japan
 
 ## Tech I am learning
