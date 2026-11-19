@@ -8,7 +8,6 @@
 - 🎓 B.S. Cybersecurity student at Temple University, Japan Campus (Tokyo)
 - 💻 Currently learning Java, C and Python
 - 🔐 Interested in cybersecurity, networks and how systems break, so I can learn to defend them
-- ♟️ Chess player and Messi fan in my free time
 - 📍 Based in Tokyo, Japan
 
 ## Tech I am learning
